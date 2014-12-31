@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>176925EC-1C8F-4F6D-B504-2925722CD334</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlaySwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26AE80018B2CA942991D7A20E8649DD0F5332EBA</key>
+		<string>lightxu.com:shicheng/playswift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlaySwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26AE80018B2CA942991D7A20E8649DD0F5332EBA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>lightxu.com:shicheng/playswift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26AE80018B2CA942991D7A20E8649DD0F5332EBA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26AE80018B2CA942991D7A20E8649DD0F5332EBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PlaySwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
